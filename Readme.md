@@ -1,4 +1,12 @@
-Mybatis Generator Plugin for common setting
+Mybatis Generator Plugin for common setting by Pratz
+- Record Class Name
+- Example Class Name
+- Client Method Name
+- New Condition Package
+
+
+
+
 
 MYBATIS Data Mapper Framework
 
