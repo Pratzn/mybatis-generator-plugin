@@ -10,7 +10,6 @@
 		<commentGenerator>
 			<property name="suppressAllComments" value="false"/>
 		</commentGenerator>
-		
 		<jdbcConnection driverClass="com.microsoft.sqlserver.jdbc.SQLServerDriver"
 			connectionURL="jdbc:sqlserver://localhost:1433;databaseName=noss_db_03"
 			userId="noss03" password="noss03" />
