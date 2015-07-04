@@ -1,6 +1,0 @@
-Manifest-Version: 1.0
-Built-By: prat
-Build-Jdk: 1.7.0_80
-Main-Class: com.github.pratzn.mybatis.generator.plugin.PratzPlugin
-Created-By: Apache Maven 3.2.1
-Archiver-Version: Plexus Archiver
